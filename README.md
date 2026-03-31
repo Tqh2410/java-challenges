@@ -10,7 +10,7 @@ This repository contains all the source code and exercises from my 14-day self-s
 Estimated time: 1.5 - 2 hours/day.
 
  Week 1: Basic Syntax & Logical Thinking
-- [ ] Day 1: Environment Setup & First Concepts (Variables, Data Types)
+- [x] Day 1: Environment Setup & First Concepts (Variables, Data Types)
 - [ ] Day 2: Operators & Control Flow (if-else, switch-case)
 - [ ] Day 3: Loops (for, while, do-while)
 - [ ] Day 4: Arrays (1D and 2D Arrays)
