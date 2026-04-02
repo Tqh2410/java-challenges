@@ -11,7 +11,7 @@ Estimated time: 1.5 - 2 hours/day.
 
  Week 1: Basic Syntax & Logical Thinking
 - [x] Day 1: Environment Setup & First Concepts (Variables, Data Types)
-- [ ] Day 2: Operators & Control Flow (if-else, switch-case)
+- [x] Day 2: Operators & Control Flow (if-else, switch-case)
 - [ ] Day 3: Loops (for, while, do-while)
 - [ ] Day 4: Arrays (1D and 2D Arrays)
 - [ ] Day 5: String Manipulation (String, StringBuilder)
